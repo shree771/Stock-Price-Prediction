@@ -77,6 +77,4 @@ streamlit run app.py
 
 Visit: http://localhost:8501/
 
-Author:
 
-Sowmiya V
